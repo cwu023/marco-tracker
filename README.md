@@ -2,6 +2,7 @@
 
 **Live Link: https://melodious-mousse-e733b1.netlify.app**
 
+
 This is the final project for [learnjavascript.online](https://learnjavascript.online) .
 
 This project is a food tracker app that allows users to select a food from the dropdown menu and track the macros. A chart will display the total calories and macros tracked. This app is a good learning experience for ES6 JavaScript. Concepts used in the app includes:
