@@ -1,4 +1,4 @@
-# Final project
+# marco-tracker
 
 This is the final project for [learnjavascript.online](https://learnjavascript.online) .
 
@@ -51,4 +51,3 @@ When you're ready to deploy, you can build for production with the following com
 ```bash
 npm run build
 ```
-# marco-tracker
